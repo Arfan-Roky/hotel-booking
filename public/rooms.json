@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Single Room",
+      "price": "$500 ",
+      "desc": "A room assigned to one person. May have one or more beds.",
+      "img": "https://i.ibb.co/YPDJqT4/room-1.png"
+    },
+    {
+      "id": "2",
+      "name": "Double Room",
+      "price": "$999",
+      "desc": "A room assigned to two people. May have one or more beds.",
+      "img": "https://i.ibb.co/7CmQ7PT/room-2.png"
+    },
+    {
+      "id": "3",
+      "name": "Triple Room",
+      "price": "$1099",
+      "desc": "A room assigned to three people. May have two or more beds.",
+      "img": "https://i.ibb.co/F3MZ7gq/room-3.png"
+    },
+    {
+      "id": "4",
+      "name": "Quad Room",
+      "price": "$1299",
+      "desc": "A room assigned to four people. May have two or more beds.",
+      "img": "https://i.ibb.co/rH1DLMh/room-4.png"
+    },
+    {
+      "id": "5",
+      "name": "Queen Room",
+      "price": "$1399",
+      "desc": " A room with a queen-sized bed. May be occupied by one or more people.",
+      "img": "https://i.ibb.co/zbLCwDC/room-5.png"
+    },
+    {
+      "id": "6",
+      "name":"Master Suite",
+      "price": "$1499",
+      "desc": "A parlour or living room connected to one or more bedrooms.",
+      "img": "https://i.ibb.co/GvRybtK/room-6.png"
+    }
+  ]
